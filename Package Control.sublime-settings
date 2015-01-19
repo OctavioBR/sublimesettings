@@ -1,23 +1,28 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
+		"bz2"
 	],
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"DashDoc",
 		"EditorConfig",
 		"Emmet",
+		"EncodingHelper",
 		"Git",
 		"GitGutter",
 		"Handlebars",
 		"Indent XML",
 		"Package Control",
 		"Predawn",
+		"Prolog",
 		"Sass",
 		"SideBarEnhancements",
 		"Sublime-CSS3",
