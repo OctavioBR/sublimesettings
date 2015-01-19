@@ -1,0 +1,32 @@
+{
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"ssl-linux"
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"Indent XML",
+		"Package Control",
+		"Predawn",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublime-CSS3",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}
