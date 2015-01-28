@@ -5,7 +5,8 @@
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
-		"bz2"
+		"bz2",
+		"ssl-linux"
 	],
 	"installed_packages":
 	[
@@ -20,6 +21,7 @@
 		"GitGutter",
 		"Handlebars",
 		"Indent XML",
+		"JSHint Gutter",
 		"Package Control",
 		"Predawn",
 		"Prolog",
@@ -27,6 +29,7 @@
 		"SideBarEnhancements",
 		"Sublime-CSS3",
 		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"TrailingSpaces"
 	],
