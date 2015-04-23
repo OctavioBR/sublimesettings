@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+console.log(require('util').inspect($1, { depth: ${2:null} }));
+]]></content>
+    <tabTrigger>cli</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
