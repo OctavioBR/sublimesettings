@@ -1,3 +1,4 @@
 [
-    { "keys": ["alt+l"], "command": "open_in_browser"}
+    { "keys": ["alt+l"], "command": "open_in_browser" },
+    { "keys": ["ctrl+'"], "command": "expand_selection_to_quotes" }
 ]
