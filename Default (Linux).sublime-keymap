@@ -1,4 +1,5 @@
 [
     { "keys": ["alt+l"], "command": "open_in_browser" },
+    { "keys": ["f2"], "command": "sublimelinter_show_all_errors" },
     { "keys": ["ctrl+'"], "command": "expand_selection_to_quotes" }
 ]
