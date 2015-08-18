@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",

@@ -2,5 +2,6 @@
     { "keys": ["alt+l"], "command": "open_in_browser" },
     { "keys": ["f2"], "command": "sublimelinter_show_all_errors" },
     { "keys": ["ctrl+'"], "command": "expand_selection_to_quotes" },
-    { "keys": ["alt+d"], "command": "goto_definition" }
+    { "keys": ["alt+d"], "command": "goto_definition" },
+    { "keys": ["ctrl+shift+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]
