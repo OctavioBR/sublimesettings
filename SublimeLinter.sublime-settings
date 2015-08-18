@@ -28,7 +28,7 @@
         "no_column_highlights_line": false,
         "passive_warnings": false,
         "paths": {
-            "linux": [],
+            "linux": ["~/.npm-packages/bin"],
             "osx": [],
             "windows": []
         },
