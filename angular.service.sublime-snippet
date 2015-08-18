@@ -4,21 +4,25 @@
 
     angular
         .module('${1:module}')
-        .service('${2:Service}', ${2:Service});
+        .service('${2:service}', ${2:service});
 
-    ${2:Service}.\$inject = [${3/(\$(\w+)|\w+)/'$1'/g}];
+    ${2:service}.\$inject = [${3:dependencies}];
 
-    /* @ngInject */
-    function ${2:Service}(${3:dependencies}) {
-        this.${4:func} = ${4:func};
+    function ${2:service}(${3:dependencies}) {
+
+        var service = {
+            ${4:func}: ${4:func}
+        };
+
+        return service;
 
         ////////////////
 
-        function ${4:function}() {
+        function ${4:func}() {
         }
     }
 })();
 ]]></content>
     <tabTrigger>ngservice</tabTrigger>
-    <scope>text.plain, source.js</scope>
+    <scope>source.js</scope>
 </snippet>
