@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"Arduino-like IDE",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
