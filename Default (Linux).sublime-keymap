@@ -4,5 +4,6 @@
     { "keys": ["ctrl+'"], "command": "expand_selection_to_quotes" },
     { "keys": ["alt+d"], "command": "goto_definition" },
     { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+    { "keys": ["ctrl+."], "command": "focus_file_on_sidebar" },
     { "keys": ["ctrl+shift+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]
