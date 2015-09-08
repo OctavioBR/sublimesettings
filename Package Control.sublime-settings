@@ -6,6 +6,7 @@
 	[
 		"AngularJS",
 		"Arduino-like IDE",
+		"Bower",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
@@ -19,6 +20,7 @@
 		"Git",
 		"GitGutter",
 		"Glue",
+		"Gulp",
 		"Handlebars",
 		"Indent XML",
 		"JsFormat",
@@ -35,7 +37,8 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript"
 	],
 	"repositories":
 	[
