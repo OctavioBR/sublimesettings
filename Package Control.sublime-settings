@@ -1,11 +1,15 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc"
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AngularJS",
 		"Arduino-like IDE",
+		"AutoFileName",
 		"Bower",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -20,7 +24,6 @@
 		"Focus File on Sidebar",
 		"Git",
 		"GitGutter",
-		"Glue",
 		"Gulp",
 		"Handlebars",
 		"Indent XML",

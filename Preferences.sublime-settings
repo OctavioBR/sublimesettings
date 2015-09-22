@@ -1,8 +1,8 @@
 {
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"close_windows_when_empty": false,
 	"close_sidebar_if_opened": false,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
@@ -14,6 +14,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"DashDoc",
 		"Vintage"
 	],
 	"match_brackets_content": false,
@@ -22,6 +23,10 @@
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
+	"rulers":
+	[
+		90
+	],
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"show_encoding": true,
