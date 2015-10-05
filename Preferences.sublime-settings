@@ -37,6 +37,7 @@
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"typescript_plugin_tsc_version": "1.6.2",
 	"use_tab_stops": true,
 	"wide_caret": true,
 	"word_wrap": false
