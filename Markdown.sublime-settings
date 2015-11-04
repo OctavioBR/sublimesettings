@@ -1,8 +1,9 @@
 {
     "color_scheme": "Packages/Predawn/predawn-markdown.tmTheme",
-    "draw_centered": false, // Centers the column in the window
+    "draw_centered": true, // Centers the column in the window
     "draw_indent_guides": false,
+    "line_numbers": false,
     "trim_trailing_white_space_on_save": false,
-    "word_wrap": false, //default true
-    "wrap_width": 80  // Sets the # of characters per line
+    "word_wrap": true,
+    "wrap_width": 90  // Sets the # of characters per line
 }

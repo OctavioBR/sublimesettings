@@ -8,7 +8,6 @@
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
-	"findreplace_small": true,
 	"font_face": "Hack",
 	"font_size": 12,
 	"highlight_line": true,
@@ -22,18 +21,21 @@
 	"match_tags": false,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
+	"predawn_findreplace_small": true,
+	"predawn_sidebar_xsmall": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_medium": false,
+	"predawn_tabs_small": true,
 	"preview_on_click": false,
 	"rulers":
 	[
-		90
+		90,
+		110
 	],
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"show_encoding": true,
 	"show_full_path": true,
-	"sidebar_xsmall": true,
-	"tabs_medium": false,
-	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,

@@ -68,7 +68,7 @@
 				<string>#777777</string>
 			</dict>
 		</dict>
-		<dict>
+    <dict>
 			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
@@ -76,25 +76,72 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Entity</string>
 			<key>scope</key>
-			<string>entity</string>
+			<string>entity, meta.function.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#92BFBF</string>
 			</dict>
 		</dict>
+
+		
+		<dict>
+			<key>name</key>
+			<string>Handlebars Text</string>
+			<key>scope</key>
+			<string>text.html.handlebars</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f1f1f1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Handlebars Text</string>
+			<key>scope</key>
+			<string>text.html.handlebars meta.function.inline.other.handlebars variable.parameter.handlebars</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F49D62</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Handlebars Braces</string>
+			<key>scope</key>
+			<string>text.html.handlebars meta.function.inline.other.handlebars support.constant.handlebars</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f1f1f1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Handlebars Loops</string>
+			<key>scope</key>
+			<string>text.html.handlebars meta.function.block.start.handlebars support.constant.handlebars, text.html.handlebars meta.function.block.end.handlebars support.constant.handlebars</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#92BFBF</string>
+			</dict>
+		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword, meta.brace.round.js, meta.brace.square.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -109,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,7 +266,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +332,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -314,7 +361,7 @@
 			<key>name</key>
 			<string>css property-name: psuedos and attibutes</string>
 			<key>scope</key>
-			<string>support.type.property-name.css, support.type.property-name.scss, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.attribute.css, variable.scss, meta.property-name.scss</string>
+			<string>support.type.property-name.css, invalid.illegal, support.type.property-name.scss, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.attribute.css, variable.scss, meta.property-name.scss, source.css meta.property-list.css meta.property-name.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -329,7 +376,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -351,14 +398,25 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>string quoted single</string>
+			<key>scope</key>
+			<string>string.quoted.single</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#bddcdc</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>css strings and urls</string>
 			<key>scope</key>
-			<string>source.css string.quoted.single, source.scss string.quoted.single, source.css string.quoted.double, source.scss string.quoted.double, source.css variable.parameter, variable.parameter.url.scss, string.unquoted.attribute-value.scss, string.unquoted.attribute-value.css</string>
+			<string>source.scss string.quoted.single, source.css string.quoted.double, source.scss string.quoted.double, source.css variable.parameter, variable.parameter.url.scss, string.unquoted.attribute-value.scss, string.unquoted.attribute-value.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -491,7 +549,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -579,7 +637,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -612,7 +670,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -700,7 +758,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -799,7 +857,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ECEC89</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -814,16 +872,6 @@
 			</dict>
 		</dict>
 	<dict>
-            <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DDB700</string>
-            </dict>
-        </dict><dict>
             <key>name</key>
             <string>SublimeLinter Error</string>
             <key>scope</key>
@@ -842,6 +890,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
             </dict>
         </dict></array>
 </dict>
