@@ -1,18 +1,18 @@
 <snippet>
-    <content><![CDATA[(function() {
-    'use strict';
+	<content><![CDATA[(function() {
+	'use strict';
 
-    angular
-        .module('${1:module}')
-        .run(${2:run});
+	angular
+		.module('${1:module}')
+		.run(${2:run});
 
-    ${2:run}.\$inject = [];
+	${2:run}.\$inject = [];
 
-    function ${2:run}() {
+	function ${2:run}() {
 
-    }
+	}
 })();
 ]]></content>
-    <tabTrigger>ngrun</tabTrigger>
-    <scope>source.js</scope>
+	<tabTrigger>ngrun</tabTrigger>
+	<scope>source.js</scope>
 </snippet>

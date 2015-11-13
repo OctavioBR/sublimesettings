@@ -1,28 +1,28 @@
 <snippet>
-    <content><![CDATA[(function() {
-    'use strict';
+	<content><![CDATA[(function() {
+	'use strict';
 
-    angular
-        .module('${1:module}')
-        .factory('${2:factory}', ${2:factory});
+	angular
+		.module('${1:module}')
+		.factory('${2:Factory}', ${2:Factory});
 
-    ${2:factory}.\$inject = [${3:dependencies}];
+	${2:Factory}.\$inject = [${3:dependencies}];
 
-    function ${2:factory}(${3:dependencies}) {
+	function ${2:Factory}(${3:dependencies}) {
 
-        var service = {
-            ${4:func}: ${4:func}
-        };
+		var service = {
+			${4:func}: ${4:func}
+		};
 
-        return service;
+		return service;
 
-        ////////////////
+		////////////////
 
-        function ${4:func}() {
-        }
-    }
+		function ${4:func}() {
+		}
+	}
 })();
 ]]></content>
-    <tabTrigger>ngfactory</tabTrigger>
-    <scope>source.js</scope>
+	<tabTrigger>ngfactory</tabTrigger>
+	<scope>source.js</scope>
 </snippet>

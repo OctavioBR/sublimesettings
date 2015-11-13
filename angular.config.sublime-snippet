@@ -1,18 +1,18 @@
 <snippet>
-    <content><![CDATA[(function() {
-    'use strict';
+	<content><![CDATA[(function() {
+	'use strict';
 
-    angular
-        .module('${1:module}')
-        .config(${2:config});
+	angular
+		.module('${1:module}')
+		.config(${2:config});
 
-    ${2:config}.\$inject = [];
+	${2:config}.\$inject = [];
 
-    function ${2:config}() {
+	function ${2:config}() {
 
-    }
+	}
 })();
 ]]></content>
-    <tabTrigger>ngconfig</tabTrigger>
-    <scope>source.js</scope>
+	<tabTrigger>ngconfig</tabTrigger>
+	<scope>source.js</scope>
 </snippet>

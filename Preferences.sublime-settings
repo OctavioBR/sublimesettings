@@ -26,7 +26,7 @@
 	"predawn_tabs_active_underline": true,
 	"predawn_tabs_medium": false,
 	"predawn_tabs_small": true,
-	"preview_on_click": false,
+	"preview_on_click": true,
 	"rulers":
 	[
 		90,
@@ -39,7 +39,7 @@
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"typescript_plugin_tsc_version": "1.6.2",
+	"typescript_plugin_tsc_version": "1.7.2",
 	"use_tab_stops": true,
 	"wide_caret": true,
 	"word_wrap": false
