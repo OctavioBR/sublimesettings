@@ -27,7 +27,9 @@
             "jshint": {
                 "@disable": false,
                 "args": [],
-                "excludes": ["*.html"]
+                "excludes": [
+                    "*.html"
+                ]
             }
         },
         "mark_style": "solid underline",
