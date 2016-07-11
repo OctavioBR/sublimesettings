@@ -13,8 +13,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Arduino-like IDE",
-		"DashDoc",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
 		"Vintage"
 	],
 	"index_exclude_patterns":
@@ -37,7 +39,7 @@
 		90,
 		110
 	],
-	"scroll_past_end": true,
+	"scroll_past_end": false,
 	"scroll_speed": 5.0,
 	"show_encoding": true,
 	"show_full_path": false,

@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"DashDoc"
 	],
 	"installed_packages":
 	[
@@ -26,6 +25,7 @@
 		"GitGutter",
 		"Gulp",
 		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"JsFormat",
 		"LESS",
