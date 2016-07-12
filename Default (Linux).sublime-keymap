@@ -7,5 +7,6 @@
     { "keys": ["ctrl+."], "command": "focus_file_on_sidebar" },
     { "keys": ["ctrl+shift+w"], "command": "close_others" },
     { "keys": ["ctrl+b"], "command": "toggle_side_bar" },
-    { "keys": ["ctrl+shift+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+    { "keys": ["ctrl+shift+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+q"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
 ]
