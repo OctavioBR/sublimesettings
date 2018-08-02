@@ -1,0 +1,8 @@
+[
+    { "keys": ["ctrl+q"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["super+\\"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+."], "command": "focus_file_on_sidebar" },
+    { "keys": ["alt+d"], "command": "goto_definition" },
+    { "keys": ["super+'"], "command": "expand_selection_to_quotes" },
+    { "keys": ["f2"], "command": "sublimelinter_show_all_errors" }
+]
