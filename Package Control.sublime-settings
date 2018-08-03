@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
 		"MarkdownPreview",
 		"Package Control",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-eslint"
 	]
 }
