@@ -7,6 +7,7 @@
 	[
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
+		"GitGutter",
 		"MarkdownPreview",
 		"Package Control",
 		"SublimeLinter",
