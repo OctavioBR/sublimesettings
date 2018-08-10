@@ -12,6 +12,7 @@
 		"MarkdownPreview",
 		"Package Control",
 		"SublimeLinter",
-		"SublimeLinter-eslint"
+		"SublimeLinter-eslint",
+		"Terraform"
 	]
 }

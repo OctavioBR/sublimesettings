@@ -1,0 +1,5 @@
+{
+	"selector": "source.tf",
+	"cmd": ["terraform", "fmt", "$file"],
+	"file_patterns": ["*.tf", "*.tfvars"]
+}
