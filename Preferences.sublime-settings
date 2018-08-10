@@ -7,5 +7,11 @@
 	[
 		"Vintage"
 	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
 	"theme": "Adaptive.sublime-theme"
 }

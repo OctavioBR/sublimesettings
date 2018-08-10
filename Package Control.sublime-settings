@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"GitGutter",
