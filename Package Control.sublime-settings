@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Asciidoctor",
 		"BracketHighlighter",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"GitGutter",
 		"MarkdownPreview",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"Terraform"
