@@ -11,3 +11,6 @@ ColorPicker_osx_x64
 *.merged-ca-bundle
 Color Highlighter/
 oscrypto-ca-bundle.crt
+GoSublime-aux\.sublime-settings
+
+GoSublime/
