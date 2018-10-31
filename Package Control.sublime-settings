@@ -15,6 +15,7 @@
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"Terraform"
+		"Terraform",
+		"WordHighlight"
 	]
 }
