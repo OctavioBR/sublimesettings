@@ -1,7 +1,7 @@
 {
 	"color_scope_name": "comment",
 	"case_sensitive": true,
-	"draw_outlined": false,
+	"draw_outlined": true,
 
 	"mark_occurrences_on_gutter" : true,
 	// valid types: dot, circle, bookmark and cross
