@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+($1) => {
+    $2
+}
+]]></content>
+    <tabTrigger>afun</tabTrigger>
+    <scope>source.js</scope>
+    <description>New anonymous arrow function</description>
+</snippet>
